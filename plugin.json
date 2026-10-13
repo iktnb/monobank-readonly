@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "monobank-readonly",
+  "version": "1.0.0",
+  "description": "Local Windows access to personal monobank balances and statements. Read operations only; token protected with Windows DPAPI.",
+  "author": { "name": "Personal local integration" }
+}
